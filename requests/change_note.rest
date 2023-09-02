@@ -1,0 +1,6 @@
+PUT http://localhost:3003/api/notes/64f296004f1e49671c17e909
+
+{
+    "content": "edit this note",
+    "important": false
+}
